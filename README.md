@@ -1,5 +1,5 @@
 # 64 Short Debug
-[English](./Readme-en.md)
+[English](./Readme-en.md)  
 简单展示 sm64coopdx 的基本信息在您的屏幕左下角  
 就跟一些游戏在右下角放置简易的调试信息一样
 ![Screenshot](./IMG_20250518_170611.png)
